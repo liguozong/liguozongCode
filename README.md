@@ -1,0 +1,2 @@
+# liguozongCode
+frist repository
